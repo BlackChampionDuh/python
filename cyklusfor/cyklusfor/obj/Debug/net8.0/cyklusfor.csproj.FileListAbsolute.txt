@@ -1,0 +1,14 @@
+C:\Users\michal.smetak\source\repos\cyklusfor\cyklusfor\bin\Debug\net8.0\cyklusfor.exe
+C:\Users\michal.smetak\source\repos\cyklusfor\cyklusfor\bin\Debug\net8.0\cyklusfor.deps.json
+C:\Users\michal.smetak\source\repos\cyklusfor\cyklusfor\bin\Debug\net8.0\cyklusfor.runtimeconfig.json
+C:\Users\michal.smetak\source\repos\cyklusfor\cyklusfor\bin\Debug\net8.0\cyklusfor.dll
+C:\Users\michal.smetak\source\repos\cyklusfor\cyklusfor\bin\Debug\net8.0\cyklusfor.pdb
+C:\Users\michal.smetak\source\repos\cyklusfor\cyklusfor\obj\Debug\net8.0\cyklusfor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\michal.smetak\source\repos\cyklusfor\cyklusfor\obj\Debug\net8.0\cyklusfor.AssemblyInfoInputs.cache
+C:\Users\michal.smetak\source\repos\cyklusfor\cyklusfor\obj\Debug\net8.0\cyklusfor.AssemblyInfo.cs
+C:\Users\michal.smetak\source\repos\cyklusfor\cyklusfor\obj\Debug\net8.0\cyklusfor.csproj.CoreCompileInputs.cache
+C:\Users\michal.smetak\source\repos\cyklusfor\cyklusfor\obj\Debug\net8.0\cyklusfor.dll
+C:\Users\michal.smetak\source\repos\cyklusfor\cyklusfor\obj\Debug\net8.0\refint\cyklusfor.dll
+C:\Users\michal.smetak\source\repos\cyklusfor\cyklusfor\obj\Debug\net8.0\cyklusfor.pdb
+C:\Users\michal.smetak\source\repos\cyklusfor\cyklusfor\obj\Debug\net8.0\cyklusfor.genruntimeconfig.cache
+C:\Users\michal.smetak\source\repos\cyklusfor\cyklusfor\obj\Debug\net8.0\ref\cyklusfor.dll
