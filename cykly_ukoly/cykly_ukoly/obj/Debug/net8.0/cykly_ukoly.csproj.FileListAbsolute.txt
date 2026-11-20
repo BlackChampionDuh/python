@@ -1,0 +1,14 @@
+C:\Users\michal.smetak\source\repos\cykly_ukoly\cykly_ukoly\bin\Debug\net8.0\cykly_ukoly.exe
+C:\Users\michal.smetak\source\repos\cykly_ukoly\cykly_ukoly\bin\Debug\net8.0\cykly_ukoly.deps.json
+C:\Users\michal.smetak\source\repos\cykly_ukoly\cykly_ukoly\bin\Debug\net8.0\cykly_ukoly.runtimeconfig.json
+C:\Users\michal.smetak\source\repos\cykly_ukoly\cykly_ukoly\bin\Debug\net8.0\cykly_ukoly.dll
+C:\Users\michal.smetak\source\repos\cykly_ukoly\cykly_ukoly\bin\Debug\net8.0\cykly_ukoly.pdb
+C:\Users\michal.smetak\source\repos\cykly_ukoly\cykly_ukoly\obj\Debug\net8.0\cykly_ukoly.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\michal.smetak\source\repos\cykly_ukoly\cykly_ukoly\obj\Debug\net8.0\cykly_ukoly.AssemblyInfoInputs.cache
+C:\Users\michal.smetak\source\repos\cykly_ukoly\cykly_ukoly\obj\Debug\net8.0\cykly_ukoly.AssemblyInfo.cs
+C:\Users\michal.smetak\source\repos\cykly_ukoly\cykly_ukoly\obj\Debug\net8.0\cykly_ukoly.csproj.CoreCompileInputs.cache
+C:\Users\michal.smetak\source\repos\cykly_ukoly\cykly_ukoly\obj\Debug\net8.0\cykly_ukoly.dll
+C:\Users\michal.smetak\source\repos\cykly_ukoly\cykly_ukoly\obj\Debug\net8.0\refint\cykly_ukoly.dll
+C:\Users\michal.smetak\source\repos\cykly_ukoly\cykly_ukoly\obj\Debug\net8.0\cykly_ukoly.pdb
+C:\Users\michal.smetak\source\repos\cykly_ukoly\cykly_ukoly\obj\Debug\net8.0\cykly_ukoly.genruntimeconfig.cache
+C:\Users\michal.smetak\source\repos\cykly_ukoly\cykly_ukoly\obj\Debug\net8.0\ref\cykly_ukoly.dll
