@@ -1,0 +1,14 @@
+C:\Users\michal.smetak\source\repos\cykluswhile\cykluswhile\bin\Debug\net8.0\cykluswhile.exe
+C:\Users\michal.smetak\source\repos\cykluswhile\cykluswhile\bin\Debug\net8.0\cykluswhile.deps.json
+C:\Users\michal.smetak\source\repos\cykluswhile\cykluswhile\bin\Debug\net8.0\cykluswhile.runtimeconfig.json
+C:\Users\michal.smetak\source\repos\cykluswhile\cykluswhile\bin\Debug\net8.0\cykluswhile.dll
+C:\Users\michal.smetak\source\repos\cykluswhile\cykluswhile\bin\Debug\net8.0\cykluswhile.pdb
+C:\Users\michal.smetak\source\repos\cykluswhile\cykluswhile\obj\Debug\net8.0\cykluswhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\michal.smetak\source\repos\cykluswhile\cykluswhile\obj\Debug\net8.0\cykluswhile.AssemblyInfoInputs.cache
+C:\Users\michal.smetak\source\repos\cykluswhile\cykluswhile\obj\Debug\net8.0\cykluswhile.AssemblyInfo.cs
+C:\Users\michal.smetak\source\repos\cykluswhile\cykluswhile\obj\Debug\net8.0\cykluswhile.csproj.CoreCompileInputs.cache
+C:\Users\michal.smetak\source\repos\cykluswhile\cykluswhile\obj\Debug\net8.0\cykluswhile.dll
+C:\Users\michal.smetak\source\repos\cykluswhile\cykluswhile\obj\Debug\net8.0\refint\cykluswhile.dll
+C:\Users\michal.smetak\source\repos\cykluswhile\cykluswhile\obj\Debug\net8.0\cykluswhile.pdb
+C:\Users\michal.smetak\source\repos\cykluswhile\cykluswhile\obj\Debug\net8.0\cykluswhile.genruntimeconfig.cache
+C:\Users\michal.smetak\source\repos\cykluswhile\cykluswhile\obj\Debug\net8.0\ref\cykluswhile.dll
